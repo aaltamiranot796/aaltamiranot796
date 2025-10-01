@@ -6,7 +6,27 @@ QA Engineer in training with over 6 years of experience in process analysis, qua
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/JKK7ZMSM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/at29796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessio-altamirano-47a53320b) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aaltamirano796) 
 
 # 💻 Tech Stack:
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### API/Back-End Testing
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%230072C6.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming/Scripting
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Test Automation/QA
+![Selenium](https://img.shields.io/badge/Selenium-%232D2D2D.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
+### Front-End/Dev Tools
+![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-%2300C853.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Console](https://img.shields.io/badge/Console-%232D2D2D.svg?style=for-the-badge&logo=terminal&logoColor=white)
+
+### Mobile/Dev Tools
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+### UI/UX Design Tools
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aaltamiranot796&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aaltamiranot796&theme=gotham&hide_border=false)<br/>
