@@ -1,5 +1,13 @@
 # 💫 About Me:
-QA Engineer in training with over 6 years of experience in process analysis, quality control, customer service, and<br>team management. Throughout my career, I have worked on optimizing procedures, ensuring compliance with<br>quality standards, and driving continuous improvement in business and industrial environments. I excel at<br>identifying issues, proposing effective solutions, and actively collaborating with multidisciplinary teams.<br>Additionally, I have experience in process documentation, requirements analysis, and leading conceptual projects,<br>enabling me to bring a structured and results-oriented approach to software quality assurance.
+Business and Industrial Administrator with 6+ years of experience in product development, sourcing, quality assurance, and process optimization across home appliances, sportswear, and automotive industries. I specialize in managing everything from raw material selection and product creation to vendor coordination and market strategy.
+
+Having completed a QA Engineering bootcamp, I gained hands-on experience in test case design, web and mobile app testing, API testing, databases, and automation testing. This allows me to combine business expertise with technical QA knowledge to deliver high-quality products and efficient processes making use of the following tools and softwares Jira, Postman, Figma, Python, Selenium,Dev Tools.
+
+I excel in problem-solving, cross-cultural collaboration, and strategic thinking, having worked with international partners in China and across Latin and South America. Fluent in English and Spanish, I bridge operational efficiency with human centered solutions to benefit both business and people.
+
+Contact Information: 
+Email: aaltamirano_t796@hotmail.com
+Cellphone #: +504 3355-2355
 
 
 ## 🌐 Socials:
