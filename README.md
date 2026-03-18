@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🫆 About Me:
 Business and Industrial Administrator with 6+ years of experience in product development, sourcing, quality assurance, and process optimization across home appliances, sportswear, and automotive industries. I specialize in managing everything from raw material selection and product creation to vendor coordination and market strategy.
 
 Having completed a QA Engineering bootcamp, I gained hands-on experience in test case design, web and mobile app testing, API testing, databases, and automation testing. This allows me to combine business expertise with technical QA knowledge to deliver high-quality products and efficient processes making use of the following tools and softwares Jira, Postman, Figma, Python, Selenium,Dev Tools.
